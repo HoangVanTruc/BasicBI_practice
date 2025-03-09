@@ -1,4 +1,4 @@
-# E-commerce Sales Analysis Report
+# E-commerce Sales Analysis Report (Practice)
 Power BI Skill Assessment Test - Intern position
 
 1. Overview
